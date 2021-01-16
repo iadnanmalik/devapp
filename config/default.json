@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://adnan123:adnan123@devclusters.blmuz.mongodb.net/<DevClusters>?retryWrites=true&w=majority"
+}
