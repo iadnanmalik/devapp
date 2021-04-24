@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+//expres-validator.github.io--> documentation
 const {check, validationResult}= require('express-validator');
 const gravatr = require('gravatar');
 const bcrypt= require('bcryptjs');
